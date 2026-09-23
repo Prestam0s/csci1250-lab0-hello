@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\OFFUTTP\\CSCI1250\\Lab0_Hello\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\OFFUTTP\\CSCI1250\\Lab0_Hello\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\OFFUTTP\\CSCI1250\\Lab0_Hello\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\OFFUTTP\\CSCI1250\\Lab0_Hello\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\OFFUTTP\\CSCI1250\\Lab0_Hello\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\OFFUTTP\\CSCI1250\\Lab0_Hello\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "c:\\Users\\OFFUTTP\\CSCI1250\\Lab0_Hello\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\OFFUTTP\\CSCI1250\\Lab0_Hello\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\OFFUTTP\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\OFFUTTP\\CSCI1250\\Lab0_Hello\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\OFFUTTP\\CSCI1250\\Lab0_Hello\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OFFUTTP\\AppData\\Roaming\\NuGet\\NuGet.Config"
